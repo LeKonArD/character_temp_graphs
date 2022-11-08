@@ -1,1 +1,1 @@
-# character_temp_graphs
+# Modeling Plots of Narrative Texts as Temporal Graphs
